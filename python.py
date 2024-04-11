@@ -7,7 +7,7 @@ L = 1.0  # Length of the casting (m)
 Nx = 100  # Number of grid points in the casting
 dx = L / Nx  # Grid spacing
 Nt = 100  # Number of time steps
-dt = 0.1  # Time step (s)
+dt = 0.1  # Time (s)
 
 # Material properties
 density = 7000  # Density of the material (kg/m^3)
